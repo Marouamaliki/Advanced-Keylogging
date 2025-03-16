@@ -1,0 +1,15 @@
+Public IP Address: 196.200.182.3Processor: Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+System: Windows 10.0.19045
+Machine: AMD64
+Hostname: DESKTOP-I403MPB
+Private IP Address: 192.168.232.1
+Public IP Address: 196.200.182.3Processor: Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+System: Windows 10.0.19045
+Machine: AMD64
+Hostname: DESKTOP-I403MPB
+Private IP Address: 192.168.232.1
+Public IP Address: 196.200.182.3Processor: Intel64 Family 6 Model 78 Stepping 3, GenuineIntel
+System: Windows 10.0.19045
+Machine: AMD64
+Hostname: DESKTOP-I403MPB
+Private IP Address: 192.168.232.1
